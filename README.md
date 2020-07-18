@@ -1,7 +1,14 @@
 # "Apocalypse" - the game
+
 A Windows/Mac/Linux Game made for PC on Unity. The objective is simple - Try and Dodge the enemies and stay alive for as long as possible, earn as many points as you can, and collect as many things as possible. Ultimately it all boils down to one principle idea - You cant win! 
 
-# Features:
+## Screens
+
+![1](Assets/Screens/Capture.PNG)
+![2](Assets/Screens/Capture1.PNG)
+![3](Assets/Screens/Capture3.PNG)
+
+## Features
 
 * The Player can be controlled by moving the mouse around in the in-game area.
 * The game ends when the player runs into one of his enemies.
@@ -9,7 +16,8 @@ A Windows/Mac/Linux Game made for PC on Unity. The objective is simple - Try and
 * The enemies keep respawning till the player is overwhelmed :P But so do the bombs (yay :D)
 * This game is coded in simple C#, so even a beginner developer could easily contribute to this project.
 
-# Usage:
+## Usage
+
 Clone this repository:
 
 `git clone https://github.com/Yashpandey4/Apocalypse-the-game.git`
